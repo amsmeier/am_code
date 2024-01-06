@@ -11,6 +11,7 @@ Send {right} ; go to bluetooth toggle button
 Send {Enter} ; bluetooth off
 Sleep 300
 Send {Enter} ; bluetooth on
+Send {Esc} ; close quick settings
 
 Return
 
